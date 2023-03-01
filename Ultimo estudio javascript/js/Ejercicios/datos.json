@@ -1,0 +1,13 @@
+{
+    
+        "cadena": "Jhon",
+        "numero": "35",
+        "booleano": "true",
+        "array": ["correr", "progrmar", "cocinar"],
+        "objeto":{
+            "twiter": "@jonmircha",
+            "email": "jonmircha@gmail.com"
+        },
+        "nulo": null
+
+}
