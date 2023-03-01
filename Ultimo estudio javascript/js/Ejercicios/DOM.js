@@ -11,7 +11,7 @@
 
 /////////////////////////////// 61. DOM: Introducción   ////////////////////////////////////////////////////
 
-// console.log("************************Elementos del Documento****************************");
+// console.log("************************Elementos del Documento**********************************");
 // console.log(window.document);
 // console.log(document);
 // console.log(document.head);
